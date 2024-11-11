@@ -1,0 +1,490 @@
+.cuerpo-completo {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .cuerpo-completo .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1920px;
+    height: 8022px;
+    position: relative;
+  }
+  
+  .cuerpo-completo .overlap {
+    position: absolute;
+    width: 1921px;
+    height: 7657px;
+    top: 106px;
+    left: 0;
+  }
+  
+  .cuerpo-completo .body {
+    position: absolute;
+    width: 1920px;
+    height: 6597px;
+    top: 1060px;
+    left: 1px;
+    overflow: hidden;
+  }
+  
+  .cuerpo-completo .overlap-group {
+    position: relative;
+    width: 2418px;
+    height: 2492px;
+    left: -228px;
+  }
+  
+  .cuerpo-completo .rectangle {
+    position: absolute;
+    width: 1919px;
+    height: 1406px;
+    top: 0;
+    left: 228px;
+  }
+  
+  .cuerpo-completo .capa {
+    position: absolute;
+    width: 981px;
+    height: 83px;
+    top: 173px;
+    left: 418px;
+  }
+  
+  .cuerpo-completo .rectangle-2 {
+    position: absolute;
+    width: 2306px;
+    height: 1356px;
+    top: 1035px;
+    left: 56px;
+    background-color: #eb5c6d;
+    transform: rotate(-5.13deg);
+  }
+  
+  .cuerpo-completo .text-wrapper {
+    position: absolute;
+    width: 889px;
+    top: 165px;
+    left: 455px;
+    font-family: "FONTSPRING DEMO - Fields Display Semi Bold-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: 100px;
+    white-space: nowrap;
+  }
+  
+  .cuerpo-completo .p {
+    position: absolute;
+    width: 554px;
+    top: 1140px;
+    left: 464px;
+    font-family: "FONTSPRING DEMO - Fields Display Semi Bold-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 96px;
+    letter-spacing: 0;
+    line-height: 100px;
+  }
+  
+  .cuerpo-completo .web-layaud {
+    position: absolute;
+    width: 1097px;
+    height: 114px;
+    top: 242px;
+    left: 413px;
+    object-fit: cover;
+  }
+  
+  .cuerpo-completo .group {
+    position: absolute;
+    width: 298px;
+    height: 521px;
+    top: 377px;
+    left: 840px;
+  }
+  
+  .cuerpo-completo .overlap-group-2 {
+    position: relative;
+    height: 521px;
+  }
+  
+  .cuerpo-completo .img {
+    width: 87px;
+    height: 135px;
+    left: 81px;
+    position: absolute;
+    top: 0;
+    object-fit: cover;
+  }
+  
+  .cuerpo-completo .llam-a-emergencias-wrapper {
+    position: absolute;
+    width: 200px;
+    height: 99px;
+    top: 127px;
+    left: 26px;
+  }
+  
+  .cuerpo-completo .llam-a-emergencias {
+    position: absolute;
+    width: 198px;
+    top: 0;
+    left: 0;
+    font-family: "StevieSans-Bold-Regular", Helvetica;
+    font-weight: 400;
+    color: #f18933;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 40px;
+  }
+  
+  .cuerpo-completo .span {
+    font-family: "StevieSans-Bold-Regular", Helvetica;
+    font-weight: 400;
+    color: #f18933;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 40px;
+  }
+  
+  .cuerpo-completo .text-wrapper-2 {
+    font-family: "StevieSans-Regular", Helvetica;
+  }
+  
+  .cuerpo-completo .rectangle-3 {
+    position: absolute;
+    width: 298px;
+    height: 298px;
+    top: 223px;
+    left: 0;
+    background-color: #f18933;
+    border-radius: 149px;
+  }
+  
+  .cuerpo-completo .group-2 {
+    position: absolute;
+    width: 170px;
+    height: 213px;
+    top: 266px;
+    left: 87px;
+  }
+  
+  .cuerpo-completo .overlap-wrapper {
+    position: absolute;
+    width: 286px;
+    height: 524px;
+    top: 374px;
+    left: 1241px;
+  }
+  
+  .cuerpo-completo .overlap-2 {
+    position: relative;
+    width: 284px;
+    height: 524px;
+  }
+  
+  .cuerpo-completo .buscar-apoyo {
+    position: absolute;
+    width: 208px;
+    top: 132px;
+    left: 56px;
+    font-family: "StevieSans-Regular", Helvetica;
+    font-weight: 400;
+    color: #f18933;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 40px;
+  }
+  
+  .cuerpo-completo .text-wrapper-3 {
+    font-family: "StevieSans-Regular", Helvetica;
+    font-weight: 400;
+    color: #f18933;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 40px;
+  }
+  
+  .cuerpo-completo .text-wrapper-4 {
+    font-family: "StevieSans-Bold-Regular", Helvetica;
+  }
+  
+  .cuerpo-completo .web-layaud-2 {
+    width: 82px;
+    height: 137px;
+    left: 106px;
+    position: absolute;
+    top: 0;
+    object-fit: cover;
+  }
+  
+  .cuerpo-completo .rectangle-4 {
+    position: absolute;
+    width: 284px;
+    height: 298px;
+    top: 226px;
+    left: 0;
+    background-color: #f18933;
+    border-radius: 142px;
+  }
+  
+  .cuerpo-completo .group-3 {
+    position: absolute;
+    width: 239px;
+    height: 183px;
+    top: 268px;
+    left: 25px;
+  }
+  
+  .cuerpo-completo .group-4 {
+    position: absolute;
+    width: 286px;
+    height: 528px;
+    top: 370px;
+    left: 453px;
+  }
+  
+  .cuerpo-completo .overlap-3 {
+    position: absolute;
+    width: 284px;
+    height: 393px;
+    top: 135px;
+    left: 0;
+  }
+  
+  .cuerpo-completo .respirar-profundo-y {
+    position: absolute;
+    width: 284px;
+    top: 0;
+    left: 0;
+    font-family: "StevieSans-Bold-Regular", Helvetica;
+    font-weight: 400;
+    color: #f18933;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 40px;
+  }
+  
+  .cuerpo-completo .rectangle-5 {
+    position: absolute;
+    width: 284px;
+    height: 298px;
+    top: 95px;
+    left: 0;
+    background-color: #f18933;
+    border-radius: 142px;
+  }
+  
+  .cuerpo-completo .group-5 {
+    position: absolute;
+    width: 159px;
+    height: 205px;
+    top: 138px;
+    left: 62px;
+  }
+  
+  .cuerpo-completo .web-layaud-3 {
+    width: 91px;
+    height: 130px;
+    left: 84px;
+    position: absolute;
+    top: 0;
+    object-fit: cover;
+  }
+  
+  .cuerpo-completo .element {
+    position: absolute;
+    width: 134px;
+    height: 109px;
+    top: 463px;
+    left: 965px;
+    background-image: url(./assets/web-layaud-recuperado-10-1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .cuerpo-completo .header {
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    top: 0;
+    left: 0;
+    background-color: transparent;
+  }
+  
+  .cuerpo-completo .overlap-4 {
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+  }
+  
+  .cuerpo-completo .rectangle-6 {
+    position: absolute;
+    width: 1920px;
+    height: 815px;
+    top: 265px;
+    left: 0;
+  }
+  
+  .cuerpo-completo .tetxura {
+    position: absolute;
+    width: 1920px;
+    height: 1060px;
+    top: 0;
+    left: 0;
+  }
+  
+  .cuerpo-completo .boton-abajo {
+    position: absolute;
+    width: 182px;
+    height: 182px;
+    top: 725px;
+    left: 869px;
+    background-image: url(./assets/tetxura-nueva11-04-2.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .cuerpo-completo .boton-abajo-2 {
+    position: absolute;
+    width: 182px;
+    height: 182px;
+    top: 725px;
+    left: 869px;
+    background-image: url(./assets/tetxura-nueva11-04.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .cuerpo-completo .text-wrapper-5 {
+    position: absolute;
+    width: 1175px;
+    top: 107px;
+    left: 223px;
+    font-family: "FONTSPRING DEMO - Fields Display Medium-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 128px;
+    letter-spacing: 0;
+    line-height: 130px;
+  }
+  
+  .cuerpo-completo .text-wrapper-6 {
+    position: absolute;
+    width: 1175px;
+    top: 372px;
+    left: 230px;
+    font-family: "StevieSans-☞", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .cuerpo-completo .overlap-group-wrapper {
+    position: absolute;
+    width: 1039px;
+    height: 163px;
+    top: 479px;
+    left: 230px;
+  }
+  
+  .cuerpo-completo .overlap-group-3 {
+    position: relative;
+    height: 164px;
+    top: -1px;
+  }
+  
+  .cuerpo-completo .rectangle-7 {
+    position: absolute;
+    width: 1039px;
+    height: 146px;
+    top: 18px;
+    left: 0;
+    background-color: #e8412d;
+    border-radius: 20px;
+  }
+  
+  .cuerpo-completo .text-wrapper-7 {
+    position: absolute;
+    width: 720px;
+    top: 105px;
+    left: 31px;
+    font-family: "StevieSans-☞", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .cuerpo-completo .text-wrapper-8 {
+    position: absolute;
+    width: 759px;
+    top: 28px;
+    left: 31px;
+    text-shadow: 0px 5px 10px #00000080;
+    font-family: "StevieSans-Bold-☞", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .cuerpo-completo .text-wrapper-9 {
+    position: absolute;
+    width: 209px;
+    top: 0;
+    left: 818px;
+    text-shadow: 0px 4px 10px #00000080;
+    font-family: "FONTSPRING DEMO - Fields Display Medium-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 135px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .cuerpo-completo .group-6 {
+    position: absolute;
+    width: 1920px;
+    height: 33px;
+    top: 0;
+    left: 0;
+  }
+  
+  .cuerpo-completo .barra {
+    position: fixed;
+    width: 1920px;
+    height: 106px;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    box-shadow: 0px 4px 10px #00000099;
+    overflow-y: scroll;
+  }
+  
+  .cuerpo-completo .LOGO-wrapper {
+    position: relative;
+    width: 1920px;
+    height: 145px;
+    top: -7px;
+    background-color: #06488b;
+  }
+  
+  .cuerpo-completo .LOGO {
+    position: absolute;
+    width: 208px;
+    height: 101px;
+    top: 12px;
+    left: 53px;
+    object-fit: cover;
+  }
